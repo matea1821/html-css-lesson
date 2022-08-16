@@ -1,0 +1,16 @@
+h1 {
+    color: #d11515;
+}
+p:hover{
+    color: green;
+}
+.bold-blue {
+    color: blue;
+    font-weight: bold;
+}
+.big {
+    font-size: 2rem;
+}
+#second-item {
+  padding-left: 2rem;
+} 
